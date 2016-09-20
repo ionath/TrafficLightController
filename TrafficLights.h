@@ -6,7 +6,7 @@
 
 /* 
  * File:   TrafficLights.h
- * Author: osmc
+ * Author: John Franklin
  *
  * Created on 24 August 2016, 19:09
  */

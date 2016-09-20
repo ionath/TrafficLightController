@@ -6,7 +6,7 @@
 
 /* 
  * File:   NetworkException.h
- * Author: osmc
+ * Author: John Franklin
  *
  * Created on 20 September 2016, 10:34
  */
